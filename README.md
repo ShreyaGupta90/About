@@ -1,5 +1,5 @@
 # About Me
-hkkl
+hkk
 
 <p>Hello! I'm <b><b>Shreya Gupta</b></b>, a passionate Machine Learning enthusiast. I am continuously upgrading my skills in technology, especially in Artificial Intelligence and Machine Learning.</p>
 
